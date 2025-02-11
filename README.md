@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![Splash Screen](assets/ss/splash_screen.jpg)
+![Splash Screen](assets/ss/splah_screen.jpg)
 
 ![News](assets/ss/news.jpg)
 
