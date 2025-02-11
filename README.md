@@ -4,10 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-![Splash Screen](ss/splash_screen.jpg)
+![Splash Screen](assest/ss/splash_screen.jpg)
 
-![News](ss/news.jpg)
+![News](assest/ss/news.jpg)
 
-![Search](ss/search.jpg)
+![Search](assest/ss/search.jpg)
 
-![History/Read History](ss/read_history.jpg)
+![History/Read History](assest/ss/read_history.jpg)
